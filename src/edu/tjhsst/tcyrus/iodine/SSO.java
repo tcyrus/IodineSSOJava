@@ -18,6 +18,7 @@ import org.json.JSONObject;
 /** Iodine SSO API
  *
  * @author Timothy Cyrus
+ * @see <a href="https://github.com/tcyrus/IodineSSOJava">Github</a>
  */
 public class SSO {
 	/** Creates A Single Sign On URL
